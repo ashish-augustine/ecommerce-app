@@ -1,5 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+[https://studio.youtube.com/video/YjQCeNd1DOU/edit
+](https://www.youtube.com/watch?v=YjQCeNd1DOU)
 ## Getting Started
 
 First, run the development server:
@@ -42,3 +43,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Live Demo
 ## [https://ubiquitous-pika-92346c.netlify.app/](https://ubiquitous-pika-92346c.netlify.app/)
+![Screenshot 2023-11-12 at 1 13 50 PM](https://github.com/ashish-augustine/nextjs-typescript-ecommerce/assets/2153396/f8e190a1-5c83-4af7-9d3f-4d967048d697)
+
+
