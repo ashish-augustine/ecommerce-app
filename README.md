@@ -8,9 +8,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 
-# YouTube: https://www.youtube.com/watch?v=YjQCeNd1DOU
+## YouTube: https://www.youtube.com/watch?v=YjQCeNd1DOU
  
-# Live Project :  https://ubiquitous-pika-92346c.netlify.app/
+## Live Project :  https://ubiquitous-pika-92346c.netlify.app/
 
 
 ## Getting Started
