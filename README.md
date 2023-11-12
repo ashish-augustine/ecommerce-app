@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 <div align="left">
       <a href="https://www.youtube.com/watch?v=YjQCeNd1DOU">
-         <img src="https://img.youtube.com/vi/YjQCeNd1DOU/0.jpg" style="width:100%;">
+         <img src="https://img.youtube.com/vi/YjQCeNd1DOU/0.jpg" style="width:50%;">
       </a>
 </div>
 
