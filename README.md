@@ -1,9 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
+# Live Project :  https://ubiquitous-pika-92346c.netlify.app/
+# YouTube:  https://www.youtube.com/watch?v=YjQCeNd1DOU
+![Screenshot 2023-11-12 at 1 13 50 PM](https://user-images.githubusercontent.com/2153396/282297652-f8e190a1-5c83-4af7-9d3f-4d967048d697.png)
+
+
+
 ## Getting Started
 
-First, run the development server:
+To run this project locally, first, run the development server:
 
 ```bash
 npm run dev
@@ -39,10 +45,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-
-# Live Project :  https://ubiquitous-pika-92346c.netlify.app/
-# YouTube:  https://www.youtube.com/watch?v=YjQCeNd1DOU
-![Screenshot 2023-11-12 at 1 13 50 PM](https://user-images.githubusercontent.com/2153396/282297652-f8e190a1-5c83-4af7-9d3f-4d967048d697.png)
 
 
