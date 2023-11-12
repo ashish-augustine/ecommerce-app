@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-[https://studio.youtube.com/video/YjQCeNd1DOU](https://www.youtube.com/watch?v=YjQCeNd1DOU)
+[[https://studio.youtube.com/video/YjQCeNd1DOU](https://www.youtube.com/watch?v=YjQCeNd1DOU)](https://www.youtube.com/watch?v=YjQCeNd1DOU&feature=youtu.be[https://www.youtube.com/watch?v=YjQCeNd1DOU&feature=youtu.be](url))
+
 ## Getting Started
 
 First, run the development server:
