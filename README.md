@@ -12,13 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Live Project :  https://ubiquitous-pika-92346c.netlify.app/
 # You Tube:  https://www.youtube.com/watch?v=YjQCeNd1DOU
-
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=YjQCeNd1DOU">
-         <img src="https://img.youtube.com/vi/YjQCeNd1DOU/0.jpg" style="width:100%;">
-      </a>
-</div>
-
+ 
 
 
 ## Getting Started
