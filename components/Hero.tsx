@@ -14,7 +14,7 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          This is an e-commerce application listing a range of furniture
+          This is an e-commerce application, built using Next JS, listing a range of furniture
           products for home & office. The products can be filtered on the basis
           of their Category, Company, Colour, Price & Shipping Charges. The products can be added to the cart and then proceeded to the checkout. The checkout
     is integrated with Stripe Payment.
