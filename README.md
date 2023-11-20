@@ -1,12 +1,12 @@
 # NextJS / Typescript / Stripe / Oauth 2.0 Integrated E-commerce App
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
  
 
 
 ![Screenshot 2023-11-12 at 1 13 50 PM](https://user-images.githubusercontent.com/2153396/282297652-f8e190a1-5c83-4af7-9d3f-4d967048d697.png)
 
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 
