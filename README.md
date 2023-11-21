@@ -8,7 +8,7 @@
 
 
 
-#  [Click here to view the video](https://www.youtube.com/watch?v=YjQCeNd1DOU)
+#  [Click here to watch the video](https://www.youtube.com/watch?v=YjQCeNd1DOU)
  
 
 
