@@ -2,9 +2,8 @@
  
 
 # [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
-
-![Screenshot 2023-11-12 at 1 13 50 PM](https://user-images.githubusercontent.com/2153396/282297652-f8e190a1-5c83-4af7-9d3f-4d967048d697.png)
-
+ 
+![Screenshot 2023-11-21 at 1 10 16 PM](https://github.com/ashish-augustine/nextjs-typescript-ecommerce-application/assets/2153396/ec1b4b5b-0b8d-466c-8444-198d372bde76)
 
 
 
