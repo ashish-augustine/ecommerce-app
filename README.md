@@ -1,5 +1,5 @@
 # NextJS / Typescript / Stripe / Oauth 2.0 / E-commerce  
-This is the NexJS version of the e-commerce app! 
+This is the NextJS version of the e-commerce app! 
 # [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
  
 
