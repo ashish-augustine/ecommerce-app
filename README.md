@@ -1,12 +1,12 @@
 # NextJS / Typescript / Stripe / Oauth 2.0 / E-commerce  
  
 
+# [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
 
 ![Screenshot 2023-11-12 at 1 13 50 PM](https://user-images.githubusercontent.com/2153396/282297652-f8e190a1-5c83-4af7-9d3f-4d967048d697.png)
 
 
 
-# [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
 
 #  [Click here to view the video](https://www.youtube.com/watch?v=YjQCeNd1DOU)
  
