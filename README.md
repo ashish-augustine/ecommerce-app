@@ -6,15 +6,15 @@
 
 
 
-# YouTube: [NextJS / Typescript / E-commerce application](https://www.youtube.com/watch?v=YjQCeNd1DOU)
+# Click here to visit the website :  https://ubiquitous-pika-92346c.netlify.app/
+
+#  [Click here to view the video](https://www.youtube.com/watch?v=YjQCeNd1DOU)
  
-## Click here to visit the website :  https://ubiquitous-pika-92346c.netlify.app/
-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 To run this project locally, first, run the development server:
 
