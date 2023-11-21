@@ -1,4 +1,4 @@
-# NextJS / Typescript / Stripe / Oauth 2.0 Integrated E-commerce App
+# NextJS / Typescript / Stripe / Oauth 2.0 / E-commerce App
 
  
 
