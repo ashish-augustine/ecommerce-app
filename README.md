@@ -6,7 +6,7 @@
 
 
 
-# Click here to visit the website :  https://ubiquitous-pika-92346c.netlify.app/
+# [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
 
 #  [Click here to view the video](https://www.youtube.com/watch?v=YjQCeNd1DOU)
  
