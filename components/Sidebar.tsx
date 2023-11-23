@@ -1,30 +1,28 @@
-import React from 'react'
-import logo from '../public/logo.svg'
-import Link from 'next/link';
-import { useProductsContext } from '../context/products_context'
-import { FaTimes } from 'react-icons/fa'
-import { links } from '../utils/constants'
-import styled from 'styled-components'
-import CartButtons from './CartButtons'
-import { useUserContext } from '../context/user_context'
+import React from "react";
+import logo from "../public/ikea.png";
+import Link from "next/link";
+import { useProductsContext } from "../context/products_context";
+import { FaTimes } from "react-icons/fa";
+import { links } from "../utils/constants";
+import styled from "styled-components";
+import CartButtons from "./CartButtons";
+import { useUserContext } from "../context/user_context";
 import Image from "next/image";
 
 const Sidebar = () => {
-  const { isSidebarOpen, closeSidebar } = useProductsContext()
-  const { myUser } = useUserContext()
+  const { isSidebarOpen, closeSidebar } = useProductsContext();
+  const { myUser } = useUserContext();
 
   return (
     <SidebarContainer>
-      <aside
-        className={`${isSidebarOpen ? 'sidebar show-sidebar' : 'sidebar'}`}
-      >
-        <div className='sidebar-header'>
-          <Image src={logo} className='logo' alt='comfy sloth' />
-          <button className='close-btn' type='button' onClick={closeSidebar}>
+      <aside className={`${isSidebarOpen ? "sidebar show-sidebar" : "sidebar"}`}>
+        <div className="sidebar-header">
+          <Image src={logo} className="logo" alt="comfy sloth" />
+          <button className="close-btn" type="button" onClick={closeSidebar}>
             <FaTimes />
           </button>
         </div>
-        <ul className='links'>
+        <ul className="links">
           {links.map(({ id, text, url }) => {
             return (
               <li key={id}>
@@ -32,11 +30,11 @@ const Sidebar = () => {
                   {text}
                 </Link>
               </li>
-            )
+            );
           })}
           {myUser && (
             <li>
-              <Link href='/checkout' onClick={closeSidebar}>
+              <Link href="/checkout" onClick={closeSidebar}>
                 checkout
               </Link>
             </li>
@@ -45,8 +43,8 @@ const Sidebar = () => {
         <CartButtons />
       </aside>
     </SidebarContainer>
-  )
-}
+  );
+};
 
 const SidebarContainer = styled.div`
   text-align: center;
@@ -117,6 +115,6 @@ const SidebarContainer = styled.div`
       display: none;
     }
   }
-`
+`;
 
-export default Sidebar
+export default Sidebar;

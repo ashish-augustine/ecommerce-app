@@ -1,8 +1,8 @@
 import React from "react";
 import styled from "styled-components";
-import logo from "../public/logo.svg";
+import logo from "../public/ikea.png";
 import { FaBars } from "react-icons/fa";
-import Link from 'next/link';
+import Link from "next/link";
 import { links } from "../utils/constants";
 import CartButtons from "./CartButtons";
 import { useProductsContext } from "../context/products_context";
@@ -16,7 +16,7 @@ const Nav = () => {
     <NavContainer>
       <div className="nav-center">
         <div className="nav-header">
-          <Link href="/"> 
+          <Link href="/">
             <Image src={logo} alt="comfy sloth" />
           </Link>
           <button type="button" className="nav-toggle" onClick={openSidebar}>
@@ -41,7 +41,7 @@ const Nav = () => {
           {myUser && (
             <li>
               {/* original: <font color="brown">Hello,{myUser && myUser.name}!</font> */}
-              <span style={{ color: 'brown' }}>Hello, {myUser && myUser.name}!</span>
+              <span style={{ color: "brown" }}>Hello, {myUser && myUser.name}!</span>
             </li>
           )}
         </ul>
