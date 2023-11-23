@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import logo from "../public/ikea.png";
+import logo from "../public/logo.svg";
 import { FaBars } from "react-icons/fa";
 import Link from "next/link";
 import { links } from "../utils/constants";
