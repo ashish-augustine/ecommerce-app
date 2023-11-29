@@ -7,7 +7,7 @@ This is the NextJS version of the e-commerce app!
 
 
 
-#  [Click here to watch the video of application](https://youtu.be/wZ_pa0ZlNaQ)
+#  [Click here to watch the video of the application](https://youtu.be/wZ_pa0ZlNaQ)
  
 
 # Screenshots:
