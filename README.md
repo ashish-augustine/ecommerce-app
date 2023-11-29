@@ -19,8 +19,7 @@ This is the NextJS version of the e-commerce app!
 ![Screenshot 2023-03-29 at 4 54 19 PM](https://user-images.githubusercontent.com/2153396/228579573-c203051a-fc29-4489-b157-2de0981a9a4d.png)
 ![Screenshot 2023-03-29 at 4 54 52 PM](https://user-images.githubusercontent.com/2153396/228579984-82d8a32b-f15a-466b-91a3-adeae0fba8f8.png)
 
-
-![checkout](https://user-images.githubusercontent.com/2153396/235770598-23e14241-876e-4f0d-a832-df0431b36512.png)
+![Screenshot 2023-11-29 at 2 26 06 PM](https://github.com/ashish-augustine/nextjs-typescript-ecommerce-application/assets/2153396/239530cb-21f9-4a1c-b628-605a5f7e87a0) 
 
 
 
