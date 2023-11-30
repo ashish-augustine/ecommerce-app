@@ -9,9 +9,9 @@ const Hero = () => {
   return (
     <Wrapper className="section-center">
       <article className="content">
-        <h1>
-          design your <br />
-          comfort zone
+         <h1>
+          buy your <br />
+          furniture online
         </h1>
         <p>
           This is an e-commerce application, built using Next JS, listing a range of furniture
