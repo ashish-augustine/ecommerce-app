@@ -3,7 +3,7 @@
 ## [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
 
 
-## [Click here to watch the app's video](https://youtu.be/wZ_pa0ZlNaQ)
+## [Click here to watch the video of the application](https://youtu.be/wZ_pa0ZlNaQ)
  
  
 # Screenshots:
