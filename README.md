@@ -22,7 +22,7 @@
 
 
 
-## Terminal commands to run the application:
+## Available commands to run this application
 ``` 
 npm install && npm run dev 
 ```
