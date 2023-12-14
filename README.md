@@ -1,6 +1,6 @@
 # E-commerce Application - NextJS / TypeScript / Stripe / Oauth 2.0  
 
-# [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
+### [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
 
 
 # [Click here to watch the app's video](https://youtu.be/wZ_pa0ZlNaQ)
