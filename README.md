@@ -3,6 +3,7 @@
 # [Click here to visit the website](https://ubiquitous-pika-92346c.netlify.app)
 
 
+# [Click here to watch the app's video](https://youtu.be/wZ_pa0ZlNaQ)
  
  
 # Screenshots:
@@ -20,7 +21,6 @@
 ![Screenshot 2023-11-29 at 2 26 06 PM](https://github.com/ashish-augustine/nextjs-typescript-ecommerce-application/assets/2153396/239530cb-21f9-4a1c-b628-605a5f7e87a0) 
 
 
-# [Click here to watch the app's video](https://youtu.be/wZ_pa0ZlNaQ)
 
 ## Available scripts
 ``` 
