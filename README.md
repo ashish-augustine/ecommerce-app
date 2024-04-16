@@ -1,4 +1,5 @@
-# E-commerce Application - NextJS / TypeScript / Stripe / Oauth 2.0  
+# E-commerce Application 
+## Techstack : Node JS / NextJS / TypeScript / Stripe / Oauth 2.0  
 This is an e-commerce application for purchasing home decor built using NextJS & TypeScript. The products can be filtered on the basis of their Category, Company, Colour, Price & Shipping Charges. The products can be added to the cart and then proceeded to the checkout. The checkout allows you to pay with your Debit / Credit cards using Stripe payments.
 
 ## [Visit the website here](https://ubiquitous-pika-92346c.netlify.app)
