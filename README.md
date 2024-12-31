@@ -4,9 +4,6 @@ This is an e-commerce application for purchasing home decor built using NextJS &
 
  
  
-## [Click here to watch the video of the application](https://youtu.be/wZ_pa0ZlNaQ)
- 
- 
 # Screenshots:
 
 ![Screenshot 2023-11-21 at 1 10 16 PM](https://github.com/ashish-augustine/nextjs-typescript-ecommerce-application/assets/2153396/ec1b4b5b-0b8d-466c-8444-198d372bde76)
